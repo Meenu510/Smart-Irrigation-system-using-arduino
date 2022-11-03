@@ -11,3 +11,4 @@ Components:
    Pump
    12V supply
    wires
+   Photosenstive sensor module
